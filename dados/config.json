@@ -1,0 +1,31 @@
+{
+  "app": {
+    "nome": "Painel Vendas",
+    "versao": "2.3.1",
+    "moeda": "BRL"
+  },
+  "moeda": "USD",
+  "faturamento": {
+    "incluir_status": [
+      "pago"
+    ],
+    "descontar_estornos": true,
+    "descontos": {
+      "Plano Team": {
+        "mes": "2026-03",
+        "percentual": 10
+      },
+      "Plano Basic": {
+        "mes": "2025-11",
+        "percentual": 5
+      }
+    }
+  },
+  "legacy": {
+    "usar_planilha_antiga": false,
+    "caminho": "/mnt/old/vendas_v1.xlsx"
+  },
+  "debug": true,
+  "timezone": "America/Sao_Paulo",
+  "timezone_backup": "UTC"
+}

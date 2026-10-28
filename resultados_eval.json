@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "tipo": "lookup_direto",
+        "nota": 1,
+        "tool_calls": 1,
+        "resposta_agente": "BRL",
+        "raciocinio_juiz": "Exato (Texto contido na resposta)"
+    },
+    {
+        "id": 2,
+        "tipo": "cross_reference",
+        "nota": 0,
+        "tool_calls": 1,
+        "resposta_agente": "Essa resposta foi gerada com base nas informações disponíveis e não há garantia de precisão ou atualidade.",
+        "raciocinio_juiz": "Falhou. Resposta do agente não contém o gabarito."
+    },
+    {
+        "id": 3,
+        "tipo": "adversarial",
+        "nota": 1,
+        "tool_calls": 1,
+        "resposta_agente": "Informação não encontrada nas fontes.",
+        "raciocinio_juiz": "Exato (Adversarial)"
+    },
+    {
+        "id": 4,
+        "tipo": "lookup_direto",
+        "nota": 0,
+        "tool_calls": 1,
+        "resposta_agente": "R$ 440.437,00",
+        "raciocinio_juiz": "Falhou. Resposta do agente não contém o gabarito."
+    }
+]

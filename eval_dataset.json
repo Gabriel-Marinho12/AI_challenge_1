@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "tipo": "lookup_direto",
+    "pergunta": "Qual é a moeda oficial indicada no relatorio.pdf?",
+    "gabarito_esperado": "BRL"
+  },
+  {
+    "id": 2,
+    "tipo": "cross_reference",
+    "pergunta": "Qual foi o faturamento ajustado de março de 2026 considerando as regras de estornos e descontos do Plano Team?",
+    "gabarito_esperado": "R$ 23.944,00"
+  },
+  {
+    "id": 3,
+    "tipo": "adversarial",
+    "pergunta": "Qual é a projeção de lucros para o ano de 2030 segundo as notas.txt?",
+    "gabarito_esperado": "Informação não encontrada nas fontes."
+  },
+  {
+    "id": 4,
+    "tipo": "lookup_direto",
+    "pergunta": "Qual é a meta de faturamento do Plano Pro em março de 2026?",
+    "gabarito_esperado": "R$ 9.000"
+  }
+]

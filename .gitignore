@@ -1,0 +1,14 @@
+# Ambientes Virtuais
+venv/
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Cache do LangGraph/DSPy
+.dspy/
+*.sqlite3
+
+# Arquivos de Sistema
+.DS_Store

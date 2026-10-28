@@ -1,0 +1,17 @@
+NOTAS DE REUNIÃO - Q1 2026
+
+Semana 1: Reunião semanal do time comercial. Discutimos o andamento das campanhas, o calendário de eventos do trimestre e a organização das metas por região. Alguns pontos ficaram para a próxima semana. Reunião semanal do time comercial. Discutimos o andamento das campanhas, o calendário de eventos do trimestre e a organização das metas por região. Alguns pontos ficaram para a próxima semana. 
+
+Semana 2: Reunião semanal do time comercial. Discutimos o andamento das campanhas, o calendário de eventos do trimestre e a organização das metas por região. Alguns pontos ficaram para a próxima semana. Reunião semanal do time comercial. Discutimos o andamento das campanhas, o calendário de eventos do trimestre e a organização das metas por região. Alguns pontos ficaram para a próxima semana. 
+
+Semana 3: Reunião semanal do time comercial. Discutimos o andamento das campanhas, o calendário de eventos do trimestre e a organização das metas por região. Alguns pontos ficaram para a próxima semana. Reunião semanal do time comercial. Discutimos o andamento das campanhas, o calendário de eventos do trimestre e a organização das metas por região. Alguns pontos ficaram para a próxima semana. 
+
+Semana 4: Reunião semanal do time comercial. Discutimos o andamento das campanhas, o calendário de eventos do trimestre e a organização das metas por região. Alguns pontos ficaram para a próxima semana. Reunião semanal do time comercial. Discutimos o andamento das campanhas, o calendário de eventos do trimestre e a organização das metas por região. Alguns pontos ficaram para a próxima semana. 
+
+Semana 5: Reunião semanal do time comercial. Discutimos o andamento das campanhas, o calendário de eventos do trimestre e a organização das metas por região. Alguns pontos ficaram para a próxima semana. Reunião semanal do time comercial. Discutimos o andamento das campanhas, o calendário de eventos do trimestre e a organização das metas por região. Alguns pontos ficaram para a próxima semana. 
+
+Decisões importantes (12/03):
+- A partir de 20/03 o Plano Pro passa de R$ 119 para R$ 129.
+- Vendas com status 'pendente' não entram no faturamento do mês.
+- Estornos devem ser descontados do faturamento.
+- O Plano Team tem 10% de desconto em março (ver config).
